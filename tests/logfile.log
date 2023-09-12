@@ -1,0 +1,58 @@
+2023-09-07 22:50:18,018 :tests.test_o2o :i am in login page
+2023-09-07 22:50:18,851 :tests.test_o2o :i am in recruitment page
+2023-09-07 23:52:42,556 :tests.test_o2o :i am in login page
+2023-09-07 23:52:44,601 :tests.test_o2o :i am in recruitment page
+2023-09-07 23:52:50,015 :tests.test_o2o :Adding display fields
+2023-09-07 23:57:05,143 :tests.test_o2o :i am in login page
+2023-09-07 23:57:05,678 :tests.test_o2o :i am in recruitment page
+2023-09-07 23:57:12,479 :tests.test_o2o :Adding display fields
+2023-09-08 00:05:43,758 :tests.test_o2o :i am in login page
+2023-09-08 00:05:44,501 :tests.test_o2o :i am in recruitment page
+2023-09-08 00:05:51,435 :tests.test_o2o :Adding display fields
+2023-09-08 00:13:02,675 :tests.test_o2o :i am in login page
+2023-09-08 00:13:03,715 :tests.test_o2o :i am in recruitment page
+2023-09-08 00:13:09,398 :tests.test_o2o :Adding display fields
+2023-09-08 00:19:50,903 :tests.test_o2o :i am in login page
+2023-09-08 00:19:51,386 :tests.test_o2o :i am in recruitment page
+2023-09-08 00:19:57,334 :tests.test_o2o :Adding display fields
+2023-09-08 00:23:22,514 :tests.test_o2o :i am in login page
+2023-09-08 00:23:24,525 :tests.test_o2o :i am in recruitment page
+2023-09-08 00:23:28,936 :tests.test_o2o :Adding display fields
+2023-09-08 07:53:28,975 :tests.test_o2o :i am in login page
+2023-09-08 07:53:30,461 :tests.test_o2o :i am in PIM page, optimize the page objects
+2023-09-08 07:54:23,688 :tests.test_o2o :i am in login page
+2023-09-08 07:54:24,389 :tests.test_o2o :i am in PIM page, optimize the page objects
+2023-09-08 07:58:10,667 :tests.test_o2o :i am in login page
+2023-09-08 08:01:36,548 :tests.test_o2o :i am in login page
+2023-09-08 08:10:39,128 :tests.test_o2o :i am in login page
+2023-09-08 08:12:21,201 :tests.test_o2o :i am in login page
+2023-09-08 08:13:52,900 :tests.test_o2o :i am in login page
+2023-09-08 08:13:54,969 :tests.test_o2o :i am in PIM page, optimize the page objects
+2023-09-08 08:15:57,699 :tests.test_o2o :i am in login page
+2023-09-08 08:16:22,717 :tests.test_o2o :i am in login page
+2023-09-08 08:16:23,599 :tests.test_o2o :i am in PIM page, optimize the page objects
+2023-09-08 08:16:30,138 :tests.test_o2o :Adding display fields
+2023-09-08 08:18:06,618 :tests.test_o2o :i am in login page
+2023-09-08 08:18:07,754 :tests.test_o2o :i am in PIM page, optimize the page objects
+2023-09-08 08:18:14,296 :tests.test_o2o :Adding display fields
+2023-09-08 08:20:10,605 :tests.test_o2o :i am in login page
+2023-09-08 08:20:11,320 :tests.test_o2o :i am in PIM page, optimize the page objects
+2023-09-08 08:20:18,267 :tests.test_o2o :Adding display fields
+2023-09-08 08:22:25,737 :tests.test_o2o :i am in login page
+2023-09-08 08:22:26,570 :tests.test_o2o :i am in PIM page, optimize the page objects
+2023-09-08 08:22:33,637 :tests.test_o2o :Adding display fields
+2023-09-08 08:24:44,390 :tests.test_o2o :i am in login page
+2023-09-08 08:24:46,440 :tests.test_o2o :i am in PIM page, optimize the page objects
+2023-09-08 08:24:51,707 :tests.test_o2o :Adding display fields
+2023-09-08 08:31:19,681 :pageObjects.Baseclass :i am in login page
+2023-09-08 08:31:20,447 :pageObjects.Baseclass :i am in PIM page, optimize the page objects
+2023-09-08 08:31:26,938 :pageObjects.Baseclass :Adding display fields
+2023-09-08 16:21:25,858 :pageObjects.Baseclass :i am in login page
+2023-09-08 16:21:27,630 :pageObjects.Baseclass :i am in PIM page, optimize the page objects
+2023-09-08 16:21:32,430 :pageObjects.Baseclass :Adding display fields
+2023-09-12 15:45:59,634 :pageObjects.Baseclass :i am in login page
+2023-09-12 15:46:00,566 :pageObjects.Baseclass :i am in PIM page, optimize the page objects
+2023-09-12 15:46:08,029 :pageObjects.Baseclass :Adding display fields
+2023-09-12 15:47:12,285 :pageObjects.Baseclass :i am in login page
+2023-09-12 15:47:14,421 :pageObjects.Baseclass :i am in PIM page, optimize the page objects
+2023-09-12 15:47:20,153 :pageObjects.Baseclass :Adding display fields
